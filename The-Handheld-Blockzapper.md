@@ -1,4 +1,5 @@
 ![Crafting](https://i.imgur.com/CqoXSOc.png)
+[_Material info_](https://github.com/simibubi/Create/wiki/Materials)
 
 Filling Holes, Stacking walls, Replacing facades, Drawing paths, Making patterns, ...
 There are plenty of uses for this rather simple gadget. 
