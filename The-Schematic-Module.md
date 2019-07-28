@@ -2,8 +2,8 @@ This Module provides a collection of Blocks and Items to aid you with schematics
 
 ### Workflows
 * **Saving** a schematic from your World
-* **Loading **and positioning schematics from your files
-* **Printing **a loaded schematic into the world
+* **Loading** and positioning schematics from your files
+* **Printing** a loaded schematic into the world
 
 ### Items
 * Empty Schematic
