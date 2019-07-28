@@ -6,8 +6,8 @@ This Module provides a collection of Blocks and Items to aid you with schematics
 * **Printing** a loaded schematic into the world
 
 ### Items
-* Empty Schematic
-* Schematic and Quill
+* [Empty Schematic](https://github.com/simibubi/Create/wiki/Empty-Schematic)
+* [Schematic and Quill](https://github.com/simibubi/Create/wiki/Schematic-and-Quill)
 * Schematic
 
 ### Blocks
