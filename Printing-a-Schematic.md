@@ -42,18 +42,18 @@ Gathering all materials is not a requirement for the building process to begin. 
 
 During the process, the status text in the interface will show the progress and potential issues:
 * **Stopped** - Red Indicator, No Schematic is in the process of being built.
-  * **Idle** - Initial state of the cannon. Press **Play** to start the build.
-  * **Invalid Blueprint** - You inserted a Schematic item with no data. Better get rid of that item.
-  * **Schematic Expired** - The Schematic file was lost on the server. This could be due to 2 different reasons:  
+  * **"Idle"** - Initial state of the cannon. Press **Play** to start the build.
+  * **"Invalid Blueprint"** - You inserted a Schematic item with no data. Better get rid of that item.
+  * **"Schematic Expired"** - The Schematic file was lost on the server. This could be due to 2 different reasons:  
     * The server operators removed the schematic files from the folder.  
     * You uploaded at least 10 other Schematics after this one, causing it to be overwritten.  
   
 * **Paused** - Yellow Indicator, Schematic is present but not being worked on.
-  * **Ready** - Paused step before printing. You can re-assure that materials are present and the settings are as desired.
-  * **Out of Gunpowder** - Speaks for itself, doesn't it? Press **Play** after refueling to un-pause.
-  * **Missing Block** - The cannon is waiting to receive a block it requires. It will continue automatically when said block has been found in the adjacent inventories.
-  * **Paused** - The cannon has been paused manually by a player or has been in unloaded chunks.
-  * **Block is not loaded** - The cannon wants to replace at a position that is too far away. Move the cannon closer to the action or load the chunk through other means.
+  * **"Ready"** - Paused step before printing. You can re-assure that materials are present and the settings are as desired.
+  * **"Out of Gunpowder"** - Speaks for itself, doesn't it? Press **Play** after refueling to un-pause.
+  * **"Missing Block"** - The cannon is waiting to receive a block it requires. It will continue automatically when said block has been found in the adjacent inventories.
+  * **"Paused"** - The cannon has been paused manually by a player or has been in unloaded chunks.
+  * **"Block is not loaded"** - The cannon wants to replace at a position that is too far away. Move the cannon closer to the action or load the chunk through other means.
 
 * **Running** - Green Indicator, The cannon is running.
 
