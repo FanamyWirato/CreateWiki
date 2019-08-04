@@ -1,5 +1,5 @@
 Using the Schematic module you can load Structures of the `.nbt` format and bring them into the world.  
-Loaded and positioned Schematics can then be placed directly or via the **Schematicannon**.
+Loaded and positioned [Schematics](https://github.com/simibubi/Create/wiki/Schematic) can then be placed directly or via the [Schematicannon](https://github.com/simibubi/Create/wiki/Schematicannon).
 For this workflow you will need:
 * [Empty Schematic](https://github.com/simibubi/Create/wiki/Empty-Schematic) x1  
 _(Schematic and Quill works as well)_
@@ -21,7 +21,7 @@ The processing time of this table depends on the size of the schematic you chose
 On the technical side - the schematic is being uploaded onto the server in order to be place-able by server side actors.  
 If your structure is very large, you can leave the Table interface while the upload is happening, and come back later.
   
-* Once it finished, take the **Blueprint** from the output slot and hold it in your main hand.
+* Once it finished, take the [Schematic](https://github.com/simibubi/Create/wiki/Schematic) from the output slot and hold it in your main hand.
 
 ### Initial Placement
 
@@ -29,13 +29,13 @@ If your structure is very large, you can leave the Table interface while the upl
 
 For initial positioning, you have two options: Using the **Deploy** Mode, or to input coordinates directly.
 
-* For positioning the Schematic without coordinates, **Right-click** with the Blueprint when the bounding-box is near the desired location. _(Can be moved later)_
+* For positioning the Schematic without coordinates, **Right-click** with the **Schematic** when the bounding-box is near the desired location. _(Can be moved later)_
 * For positioning in the Air, Hold **Ctrl** to lock the selected position at a fixed distance.  
 Modify the distance by **Scrolling** while **Ctrl** is being held. **Right-click** to confirm.
 * [Skip the coordinate section](https://github.com/simibubi/Create/wiki/Loading-a-Schematic#fine-tuning)
 
 If you have specific coordinates saved from other Tools, earlier sessions, or your friend -  
-you can open the Blueprint's interface using **Right-click** while **Sneaking**.
+you can open the Schematic's interface using **Right-click** while **Sneaking**.
 
 ![](https://i.imgur.com/qomz806.png)
 
@@ -59,5 +59,5 @@ You can also tweak the coordinates with **Sneak**+**Right-click** at any point.
 * In **Creative Mode**, there is an additional option called **Print**, which will proceed to instantly placing the actual blocks of the Structure in the world at the currently shown position and orientation.  
 After printing, the blueprint persists and can be Deployed again if needed.
 
-In **Survival Mode**, you are now ready to have this Blueprint built by a [Schematicannon]().  
-Follow the Printing workflow to learn how to use the cannon effectively.
+In **Survival Mode**, you are now ready to have this Schematic built by a [Schematicannon](https://github.com/simibubi/Create/wiki/Schematicannon).  
+Follow the [Printing workflow](https://github.com/simibubi/Create/wiki/Printing-a-Schematic) to learn how to use the cannon effectively.
