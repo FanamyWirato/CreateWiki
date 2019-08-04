@@ -1,5 +1,5 @@
-Using the Schematic module you can load Structures of the `.nbt` format and bring them into the world.  
-Loaded and positioned [Schematics](https://github.com/simibubi/Create/wiki/Schematic) can then be placed directly or via the [Schematicannon](https://github.com/simibubi/Create/wiki/Schematicannon).
+Using the Schematic module you can load Structures of the `.nbt` format and bring them into the world.
+Loaded and positioned [Schematics](https://github.com/simibubi/Create/wiki/Schematic) can then be placed directly or via the [Schematicannon](https://github.com/simibubi/Create/wiki/Schematicannon).  
 For this workflow you will need:
 * [Empty Schematic](https://github.com/simibubi/Create/wiki/Empty-Schematic) x1  
 _(Schematic and Quill works as well)_
