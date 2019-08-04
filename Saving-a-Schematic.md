@@ -20,4 +20,4 @@ This way you can bring in the faces as close to the structure as possible while 
 3. Once you're happy with the selection, [**Right-Click**] again to confirm and save the file.  
 Schematic Files are found in your instance folder under `schematics/`
 
-If you would like to load the schematic for placement refer to [Loading a Schematic](https://github.com/simibubi/Create/wiki/Loading-a-Schematic).
+If you would like to load the [Schematic](https://github.com/simibubi/Create/wiki/Schematic) for placement refer to [Loading a Schematic](https://github.com/simibubi/Create/wiki/Loading-a-Schematic).
