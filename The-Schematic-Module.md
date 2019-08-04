@@ -8,9 +8,9 @@ This Module provides a collection of Blocks and Items to aid you with schematics
 ### Items
 * [Empty Schematic](https://github.com/simibubi/Create/wiki/Empty-Schematic)
 * [Schematic and Quill](https://github.com/simibubi/Create/wiki/Schematic-and-Quill)
-* Schematic
+* [Schematic](https://github.com/simibubi/Create/wiki/Schematic)
 
 ### Blocks
-* Schematic Table
-* Schematicannon
+* [Schematic Table](https://github.com/simibubi/Create/wiki/Schematic-Table)
+* [Schematicannon](https://github.com/simibubi/Create/wiki/Schematicannon)
 * Schematicannon Creatifier
