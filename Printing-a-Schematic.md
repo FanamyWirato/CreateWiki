@@ -43,7 +43,7 @@ Gathering all materials is not a requirement for the building process to begin. 
 During the process, the status text in the interface will show the progress and potential issues:
 * **Stopped** - Red Indicator, No Schematic is in the process of being built.
   * **"Idle"** - Initial state of the cannon. Press **Play** to start the build.
-  * **"Invalid Blueprint"** - You inserted a Schematic item with no data. Better get rid of that item.
+  * **"Invalid Blueprint"** - You inserted a Schematic with no data. Better get rid of that item.
   * **"Schematic Expired"** - The Schematic file was lost on the server. This could be due to 2 different reasons:  
     * The server operators removed the schematic files from the folder.  
     * You uploaded at least 10 other Schematics after this one, causing it to be overwritten.  
