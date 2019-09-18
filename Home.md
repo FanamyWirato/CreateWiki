@@ -1,6 +1,6 @@
 Welcome to the Create wiki!
-Here's where you can find out about all the details on how to use this mod.  
-Short descriptions of the tools and items can be found in-game aswell.
+Here you can find out about all the details on the features of this mod.  
+Short descriptions of the tools and items can be found in-game aswell.  
 Create adds customizable Recipes, which are JEI integrated.
 
 Create is at an early stage of development with plenty of planned features.  
