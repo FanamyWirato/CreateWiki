@@ -6,8 +6,12 @@ Create is at an early stage of development with plenty of planned features.
 I am forever grateful for any bugs, enhancements and suggestions posted on the [Issue Tracker](https://github.com/simibubi/Create/issues).
 
 ### Modules
-* [The Schematic Module](https://github.com/simibubi/Create/wiki/The-Schematic-Module)
-* [The Curiosity Module](https://github.com/simibubi/Create/wiki/The-Curiosity-Module)
+* [Create Contraptions](https://github.com/simibubi/Create/wiki/Create-Contraptions)
+* [Create Logistics](https://github.com/simibubi/Create/wiki/Create-Logistics)
+* [Create Schematics](https://github.com/simibubi/Create/wiki/Create-Schematics)
+* [Create Curiosities](https://github.com/simibubi/Create/wiki/Create-Curiosities)
+* [Create Palettes](https://github.com/simibubi/Create/wiki/Create-Palettes)
+* [Create Gardens](https://github.com/simibubi/Create/wiki/Create-Gardens)
 
 ### Other
 * [Materials](https://github.com/simibubi/Create/wiki/Materials)
