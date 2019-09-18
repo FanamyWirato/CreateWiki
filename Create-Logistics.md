@@ -4,10 +4,10 @@ As an addition to features of [Create Contraptions](https://github.com/simibubi/
 * Belt Funnel
 * Belt Support
 * Belt Observer
-* Linked Extractor
+* Linked Extractor  
 
 * FlexCrate
-* Stockpile Switch
+* Stockpile Switch  
 
 * Redstone Contacts
 * Redstone Links
