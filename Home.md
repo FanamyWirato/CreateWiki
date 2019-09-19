@@ -6,6 +6,10 @@ Create adds customizable Recipes, which are JEI integrated.
 Create is at an early stage of development with plenty of planned features.  
 I am forever grateful for any bugs, enhancements and suggestions posted on the [Issue Tracker](https://github.com/simibubi/Create/issues).
 
+**Regarding everything in Create 0.1:**  
+The wiki is being worked on. For now you can consult this video.  
+https://www.youtube.com/watch?v=1DTwqgKy3Fw
+
 ### Modules
 * [Create Contraptions](https://github.com/simibubi/Create/wiki/Create-Contraptions)
 * [Create Logistics](https://github.com/simibubi/Create/wiki/Create-Logistics)
