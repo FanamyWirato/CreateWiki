@@ -1,21 +1,22 @@
 Welcome to the Create wiki!
-Here you can find out about all the details on the features of this mod.  
-Short descriptions of the tools and items can be found in-game aswell.  
-Create adds customizable Recipes, which are JEI integrated.
+Here you will find out about all the details on the features of this mod.
+As of now, there are no written guides regarding most of the features in 0.1. The current version you're playing is in **very early beta** and a lot of the **fundamentals will change** in the next couple updates to the mod.  
 
-Create is at an early stage of development with plenty of planned features.  
+Your best options to learn about this _demo_-version is to consult the following resources:
+* The Mod **JEI** for showing the recipes and recipe types added in Create
+* The **in-game tooltips** of Create for description of the individual blocks and items
+* [This Collection of **videos**](https://www.youtube.com/playlist?list=PLyADkcfPLU8ywCXZPaDbQ_JZJL0CGDN5Z) showcasing different aspects of the Mod
+* The [Feedback and Help](https://discordapp.com/invite/hmaD7Se) Channel for questions and suggestions.
+
+Thank you for playing, and stay tuned for all the new possibilities in **beta 0.2**.
 I am forever grateful for any bugs, enhancements and suggestions posted on the [Issue Tracker](https://github.com/simibubi/Create/issues).
 
-**Regarding everything in Create 0.1:**  
-The wiki is being worked on. For now you can consult this video.  
-https://www.youtube.com/watch?v=1DTwqgKy3Fw
-
 ### Modules
-* [Create Contraptions](https://github.com/simibubi/Create/wiki/Create-Contraptions)
-* [Create Logistics](https://github.com/simibubi/Create/wiki/Create-Logistics)
+* Create Contraptions
+* Create Logistics
 * [Create Schematics](https://github.com/simibubi/Create/wiki/Create-Schematics)
 * [Create Curiosities](https://github.com/simibubi/Create/wiki/Create-Curiosities)
-* [Create Palettes](https://github.com/simibubi/Create/wiki/Create-Palettes)
+* Create Palettes
 * [Create Gardens](https://github.com/simibubi/Create/wiki/Create-Gardens)
 
 ### Other
