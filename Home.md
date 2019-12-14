@@ -1,5 +1,5 @@
 Welcome to the Create wiki!
-Here you will find out about all the details on the features of this mod.
+Here you will find out about all the details on the features of this mod (in the future).
 As of now, there are no written guides regarding most of the features in 0.1. The current version you're playing is in **very early beta** and a lot of the **fundamentals will change** in the next couple updates to the mod.  
 
 Your best options to learn about this _demo_-version is to consult the following resources:
