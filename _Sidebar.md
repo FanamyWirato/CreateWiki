@@ -6,8 +6,8 @@
 &nbsp; &nbsp; [[Changing Gears|Changing Gears]]<br>
 &nbsp; &nbsp; [[Stress Units|Stress Units, Capacity and Impact]]<br>
 &nbsp; &nbsp; [[Materials|Create's Materials]]<br>
-&nbsp; &nbsp; [[Moving Contraptions|]]
-&nbsp; &nbsp; [[Rotating Appliances|]]
+&nbsp; &nbsp; [[Moving Contraptions|]]<br>
+&nbsp; &nbsp; [[Rotating Appliances|]]<br>
 &nbsp; &nbsp; [[Component Index|]]
 
 ### Logistics
