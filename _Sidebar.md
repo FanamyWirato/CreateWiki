@@ -7,7 +7,7 @@
 &nbsp; &nbsp; [[Changing Gears|Changing Gears]]<br>
 &nbsp; &nbsp; [[Stress Units|Stress Units, Capacity and Impact]]
 
-### Modules / Extensions
+### Modules
 &nbsp; &nbsp; [[Create Schematics|Create Schematics]]<br>
 &nbsp; &nbsp; [[Create Curiosities|Create Curiosities]]<br>
 &nbsp; &nbsp; [[Create Palettes|Create Palettes]]<br>
