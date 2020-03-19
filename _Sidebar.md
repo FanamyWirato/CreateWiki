@@ -5,6 +5,7 @@
 &nbsp; &nbsp; [[Generate and Convey|]]<br>
 &nbsp; &nbsp; [[Changing Gears|Changing Gears]]<br>
 &nbsp; &nbsp; [[Stress Units|Stress Units, Capacity and Impact]]<br>
+&nbsp; &nbsp; [[Materials|Create's Materials]]<br>
 &nbsp; &nbsp; [[Moving Contraptions|]]
 
 ### Kinetic Components
