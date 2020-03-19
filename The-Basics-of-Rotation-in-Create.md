@@ -1,8 +1,8 @@
 Some of the most prominent machines and components require **Rotational Force** to operate. Sometimes the provided rotation speed and direction reflects their behaviour, and some components may have a more significant _cost_ than others.
 
-1. Generate & Convey
-2. Changing Gear
-3. Stress & Capacity
+1. [Generate & Convey](#generate--convey)
+2. [Changing Gear](#changing-gear)
+3. [Stress & Capacity](#stress--capacity)
 
 ## Generate & Convey
 Using appropiate generators(link), you can start setting things in motion. These kinetic components will apply the speed they generate at to attached shafts, cogs, etc. Any component can be connected to any other, so long as their integrated shafts/cogs are linked together.
