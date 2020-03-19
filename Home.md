@@ -18,7 +18,7 @@ We will be forever grateful for any bugs, enhancements and suggestions posted on
 ### Modules
 * [Create Schematics](https://github.com/simibubi/Create/wiki/Create-Schematics)
 * [Create Curiosities](https://github.com/simibubi/Create/wiki/Create-Curiosities)
-* Create Palettes
+* [Create Palettes](https://github.com/simibubi/Create/wiki/Create-Palettes)
 
 ### Other
 * [Materials](https://github.com/simibubi/Create/wiki/Materials)
