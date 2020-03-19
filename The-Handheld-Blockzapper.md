@@ -35,49 +35,45 @@ This is especially effective when using the tool with an upgraded area of effect
 
 
 ## Upgrades
-There are five traits to a Handheld Blockzapper, which you can improve by upgrading it:
+There are five traits to a Handheld Blockzapper, which you can improve by upgrading it:  
+(All recipes can be viewed in JEI, press 'U' hovering a blockzapper item)
 
 ---
-![](https://i.imgur.com/5fk2arK.png)![](https://i.imgur.com/Y4cY3ZM.png)
 ### Area of Effect (Amplifier)
 Increases the amount of blocks modified by one shot.
 * Default: Max area of effect is **1x1**.
-* Using **Blaze Brass**: Allows a max Area of **5x5** (3m Radius)  
-* Using **Chorus Chrome**: Allows a max Area of **13x13** (7m Radius) 
+* Using **Brass**: Allows a max Area of **5x5** (3m Radius)  
+* Using **Chromatic Compound**: Allows a max Area of **13x13** (7m Radius) 
 
 ---
-![](https://i.imgur.com/n1UFVTl.png)![](https://i.imgur.com/CSVl8h8.png)
 ### Speed (Accelerator)
 Increases the amount of shots fired per second. Holding down [**Right-Click**] will repeat shots.  
 * Default: **~2 Beams** per second
-* Using **Blaze Brass**: **~3 Beams** per second
-* Using **Chorus Chrome**: **~10 Beams** per second  
+* Using **Brass**: **~3 Beams** per second
+* Using **Chromatic Compound**: **~10 Beams** per second  
 _Your measurements may differ due to server latencies_
 
 ---
-![](https://i.imgur.com/faLCTIL.png)![](https://i.imgur.com/td2JPGL.png)
 ### Range (Scope)
 Increases the distance at which blocks can be manipulated.
 * Default: Max range of **15m**  
-* Using **Blaze Brass**: Max range of **30m**  
-* Using **Chorus Chrome**: Max range of **100m**  
+* Using **Brass**: Max range of **30m**  
+* Using **Chromatic Compound**: Max range of **100m**  
 
 ---
-![](https://i.imgur.com/2ypT0Qj.png)![](https://i.imgur.com/plYSf4v.png)
 ### Strength (Body)
 When in **Replace Mode**, determines the maximum hardness of the blocks to be replaced.
 * Default: Max allowed Hardness: 2 (Soil, Wood, Stone)
-* Using **Blaze Brass**: Max allowed Hardness: 5 (Ores, Metal Blocks)
-* Using **Chorus Chrome**: Anything Breakable (Obsidian, ...)  
+* Using **Brass**: Max allowed Hardness: 5 (Ores, Metal Blocks)
+* Using **Chromatic Compound**: Anything Breakable (Obsidian, ...)  
 
 In Creative Mode, any block can be replaced.
 
 ---
-![](https://i.imgur.com/yuXUy1O.png)![](https://i.imgur.com/xXBFT8u.png)
 ### Block Collection (Retriever)
 When in **Replace Mode**, these upgrades will automatically relocate the dropped items.
 * Default: Block Drops will not be relocated
-* Using **Blaze Brass**: Dropped items will be relocated to the players position.
-* Using **Chorus Chrome**: Dropped items will be placed in the players inventory.
+* Using **Brass**: Dropped items will be relocated to the players position.
+* Using **Chromatic Compound**: Dropped items will be placed in the players inventory.
 
 In Creative Mode, replaced blocks will not drop items.
