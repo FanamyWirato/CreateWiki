@@ -14,12 +14,11 @@ We will be forever grateful for any bugs, enhancements and suggestions posted on
 ### Core Features
 * [The Basics of Rotation in Create](https://github.com/simibubi/Create/wiki/The-Basics-of-Rotation-in-Create)
 * [Stress Units, Capacity and Impact](https://github.com/Creators-of-Create/Create/wiki/Stress-Units,-Capacity-and-Impact)
+* [[Materials|Create's Materials]]
 
 ### Modules
 * [Create Schematics](https://github.com/simibubi/Create/wiki/Create-Schematics)
 * [Create Curiosities](https://github.com/simibubi/Create/wiki/Create-Curiosities)
 * [Create Palettes](https://github.com/simibubi/Create/wiki/Create-Palettes)
 
-### Other
-* [Materials](https://github.com/simibubi/Create/wiki/Materials)
 
