@@ -1,11 +1,22 @@
 ### [[Home|Home]]
 
-### [[Kinetic Systems|The Basics of Rotation in Create]]
+### Core Features
+&nbsp; &nbsp; [[The Basics of Rotation|The Basics of Rotation in Create]]<br>
 &nbsp; &nbsp; [[Generate and Convey|]]<br>
 &nbsp; &nbsp; [[Changing Gears|Changing Gears]]<br>
-&nbsp; &nbsp; [[Stress Units|Stress Units, Capacity and Impact]]
+&nbsp; &nbsp; [[Stress Units|Stress Units, Capacity and Impact]]<br>
+&nbsp; &nbsp; [[Moving Contraptions|]]
+
+### Kinetic Components
+&nbsp; &nbsp; [[Rotation Sources|]]<br>
+&nbsp; &nbsp; [[Rotation Relays|]]<br>
+&nbsp; &nbsp; [[Rotating Appliances|]]
+
+### Logistical Components
+&nbsp; &nbsp; [[Item Transfer|]]<br>
+&nbsp; &nbsp; [[Redstone Logic & Utility|]]
 
 ### Modules
 &nbsp; &nbsp; [[Create Schematics|Create Schematics]]<br>
 &nbsp; &nbsp; [[Create Curiosities|Create Curiosities]]<br>
-&nbsp; &nbsp; [[Create Palettes|Create Palettes]]<br>
+&nbsp; &nbsp; [[Create Palettes|Create Palettes]]
