@@ -11,13 +11,12 @@ Your best options to learn about this _demo_-version is to consult the following
 Thank you for playing, and stay tuned for all the new possibilities in **beta 0.2**.  
 I am forever grateful for any bugs, enhancements and suggestions posted on the [Issue Tracker](https://github.com/simibubi/Create/issues).
 
+### Core Features
+
 ### Modules
-* Create Contraptions
-* Create Logistics
 * [Create Schematics](https://github.com/simibubi/Create/wiki/Create-Schematics)
 * [Create Curiosities](https://github.com/simibubi/Create/wiki/Create-Curiosities)
 * Create Palettes
-* [Create Gardens](https://github.com/simibubi/Create/wiki/Create-Gardens)
 
 ### Other
 * [Materials](https://github.com/simibubi/Create/wiki/Materials)
