@@ -1,6 +1,4 @@
-![](https://i.imgur.com/8bXgQj2.png)
-
-This magical contraption mirrors the blocks you place across one or more planes and places them automatically.  
+This magical gadget mirrors the blocks you place across one or more planes and places them automatically.  
 The Wand works passively while held in the **hotbar**.
 
 * [**Right-Click**] on a block surface to create or move the mirror to that location.
