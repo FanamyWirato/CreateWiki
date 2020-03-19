@@ -12,6 +12,7 @@ Thank you for playing, and stay tuned for all the new possibilities in **beta 0.
 I am forever grateful for any bugs, enhancements and suggestions posted on the [Issue Tracker](https://github.com/simibubi/Create/issues).
 
 ### Core Features
+* [The Basics of Rotation in Create](https://github.com/simibubi/Create/wiki/The-Basics-of-Rotation-in-Create)
 
 ### Modules
 * [Create Schematics](https://github.com/simibubi/Create/wiki/Create-Schematics)
