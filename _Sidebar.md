@@ -7,11 +7,8 @@
 &nbsp; &nbsp; [[Stress Units|Stress Units, Capacity and Impact]]<br>
 &nbsp; &nbsp; [[Materials|Create's Materials]]<br>
 &nbsp; &nbsp; [[Moving Contraptions|]]
-
-### Kinetic Components
-&nbsp; &nbsp; [[Rotation Sources|]]<br>
-&nbsp; &nbsp; [[Rotation Relays|]]<br>
 &nbsp; &nbsp; [[Rotating Appliances|]]
+&nbsp; &nbsp; [[Component Index|]]
 
 ### Logistics
 &nbsp; &nbsp; [[Item Transfer|]]<br>
