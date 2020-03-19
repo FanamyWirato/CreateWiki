@@ -1,3 +1,5 @@
+![](https://i.imgur.com/E3wHL9a.jpg)
+
 ### Stress
 
 Now that we have [[Rotation|Generate and Convey]] and [[Speed|Changing Gears]] covered we need to talk about the last important mechanic: _Stress_. Stress is Create's simplified implementation of torque that allows for some balancing around rotation. To understand stress, we have to split components into 2 groups, _Generators_ and _Consumers_. Generators have a certain _Stress Capacity_ associated with them, while Consumers have a _Stress Impact_. As long as the total capacity of a system is greater or equal to the total impact the system will turn and all components will work. If however the total stress impact gets to large, the system will Overstress preventing all components from working. This state persists until either the impact gets lowered or some capacity added.
