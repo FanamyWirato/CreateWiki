@@ -1,5 +1,5 @@
 Filling Holes, Stacking walls, Replacing facades, Drawing paths, Making patterns, ...
-There are plenty of uses for this rather simple gadget. 
+There are plenty of uses for this rather powerful gadget. 
 
 With its configuration and upgrades, the **Handheld Blockzapper** can place and replace blocks at a distance.
 * Start by [**Left-Clicking**] a Block within range to set it as the currently selected target Material.  
