@@ -1,37 +1,10 @@
-Some of the most prominent machines and components require **Rotational Force** to operate. Sometimes the provided rotation speed and direction reflects their behaviour, and some components may have a more significant _cost_ than others.
+Some of the most prominent machines and components require **Rotational Force** to operate. Sometimes the provided rotation speed and direction reflects their behaviour, and some components may have a more significant _cost_ than others. Trying to understand how exactly these components work together can become difficult so we recommend reading these 3 articles in order to help with that.
 
-1. [Generate & Convey](#generate--convey)
-2. [Changing Gear](#changing-gear)
-3. [Stress & Capacity](#stress--capacity)
+1. [[Generate & Convey|Generate and Convey]]
+2. [[Changing Gear|Changing Gears]]
+3. [[Stress & Capacity|Stress Units, Capacity and Impact]]
 
-## Generate & Convey
-Using appropiate generators(link), you can start setting things in motion. These kinetic components will apply the speed they generate at to attached shafts, cogs, etc. Any component can be connected to any other, so long as their integrated shafts/cogs are linked together.
-
-(waterwheel powering something) (mechanical crafters powering each other)
-
-**Multiple generators** can be connected together in order achieve a greater Capacity score for the attached kinetic network. When attaching new generators to running components, it is important that the added generator rotates in the **same direction** as the component it is attached to. When connecting two kinetic blocks with **incompatible direction** of rotation, you'll notice that the blocks just break. However, trouble-shooting this will be quite straight-forward - all you need to do is to include a means of reversing the rotation between the generator and the rest:
-
-Relaying rotational power between two components is one of the most important tasks when creating with Create. There are a variety of options and multiple possible solutions for each situation. These are the components that allow you to move, spread and modify rotational behaviour most effectively:
-
-(mesh of these components showing off their behaviour)
-
-- **Shafts**, cheapest option for relaying in a straight line. 
-- **Cogwheels**, move sideways while keeping the same rotation axis; reverse the direction
-- **Belts**, move sideways while while keeping the same rotation axis; cannot be vertical; do not reverse direction
-- **Gearboxes**, relay between two different rotation axes in a compact fashion; reverse connections on the same axis 
-- **Encased Belts**, relay sideways and between different rotation axes; do not reverse direction
-
-Best is play around with each component and familiarizing yourself with its abilities. It is important to know the options when having to deal with complex connection tasks in a potentially less forgiving environment. 
-
-## Changing Gear
-
-Some kinetic blocks have the ability to **speed up** or **slow down** connected components. Attach a large to a regular cogwheel diagonally: powering one of them at their shaft will result in the other rotating twice or half the speed respectively.
-With this and other more compact blocks, you will have full control over the speed provided to your contraptions. This is especially important for machines that require a **minimum level of speed** to operate (e.g. the Mechanical Mixer).
-Connecting faster components to other slower components **directly** will cause the faster network to overpower the rest, alinging the speed of everything that is now part of it. (That is, if the direction lines up) 
-
-(image of something ridiculous)
-
-With this mechanic you can take things to the extreme and either rotate machines at the configurated maximum speed (256rpm by default) or slow them down to a fraction. But you may notice that speeding up brings a cost with it...
+If you have already used Create 0.1 in the past and are familiar with rotation and speed, you may be able to catch up with the 0.2 update by just reading the paragraph below
 
 ## Stress & Capacity
 
@@ -40,8 +13,6 @@ _In Create 0.2+, a bit of balance had been brought to rotational power: somethin
 Rotational generators have limited capacity for what they power. "Stress Impact" and "Stress Capacity" are the two opposing values in a kinetic network: **generators add capacity, machines and components add impact**. If the capacity is exhausted, all connected parts will simply stop moving, until capacity is increased or stress is relieved again.
 **Stress Impact is tied to rotation speed**. Increasing the speed increases a components stress impact or capacity proportionally. 
 
-(image of fans and water wheel)
-
 Consider the following example: 
 Assume one Water Wheel can provide just enough power in order to power four fans at the same speed. 
 * Doubling the speed of the fans using cogwheels will make the fans blow stronger, but the network will cease to function until the count of fans is halved, or the count of water wheels is doubled. 
@@ -49,4 +20,4 @@ Assume one Water Wheel can provide just enough power in order to power four fans
 
 By default, components used **only for relaying** rotational power, such as shafts and cogwheels, have **no stress impact** at all. This makes predicting the amount of generators required for your contraptions much simpler and prevents punishment for aesthetic detours between machines and generators.
 
-Optimizing stress impact and comparing net capacity of sources at base speed can become quite scientific. For those who are interested in seeing some actual numbers and more exhaustive information, check out [this page](https://github.com/Creators-of-Create/Create/wiki/Kinetic-Systems-and-Stress-in-0.2-). It is recommended to look into crafting a pair of Goggles and a Stress Gauge.
+Optimizing stress impact and comparing net capacity of sources at base speed can become quite scientific. For those who are interested in some more exhaustive information, check out [[this page|Stress Units, Capacity and Impact#SU and Speed]]
