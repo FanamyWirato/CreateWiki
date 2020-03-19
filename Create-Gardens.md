@@ -2,4 +2,4 @@ This Module not only deals with decoration for the exterior, it also provides gr
 Stay tuned for additions to this Category in future versions of Create.
 
 * Cocoa Logs
-* [Tree Fertilizer](https://github.com/simibubi/Create/wiki/Tree-Fertilizer)
+
