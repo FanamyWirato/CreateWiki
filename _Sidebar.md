@@ -12,7 +12,7 @@
 &nbsp; &nbsp; [[Rotation Relays|]]<br>
 &nbsp; &nbsp; [[Rotating Appliances|]]
 
-### Logistical Components
+### Logistics
 &nbsp; &nbsp; [[Item Transfer|]]<br>
 &nbsp; &nbsp; [[Redstone Utility|]]
 
