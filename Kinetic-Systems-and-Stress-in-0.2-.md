@@ -4,7 +4,11 @@ The amount of Stress a component has also scales with its current speed. All com
 
 In the end this means that if you want to run 2 crushing wheels you'll need 2 water wheels running at the same speed or you can get away with just a single one if you slow down the crushers to half its speed instead. Create adds a variety of speed changing components, with the simplest being a combo of large and small cogwheels.
 
+By default, components used **only for relaying** rotational power, such as shafts and cogwheels, have **no stress impact** at all. This makes predicting the amount of generators required for your contraptions much simpler and prevents punishment for aesthetic detours between machines and generators.
+
 ***
+
+Optimizing stress impact and comparing net capacity of sources at base speed can become quite scientific. For those who are interested in seeing some actual numbers and more exhaustive information, it is recommended to look into crafting a pair of Goggles and a Stress Gauge:
 
 Stats of a water wheel turning at 10 RPM: 
 
@@ -14,3 +18,6 @@ Stats of a crushing wheel working at 20 RPM:
 
 ![](https://cdn.discordapp.com/attachments/622867820170182676/690167926669705249/unknown.png)
 
+Example of a stress gauge:
+
+![](https://cdn.discordapp.com/attachments/622867820170182676/690179829395488996/unknown.png)
