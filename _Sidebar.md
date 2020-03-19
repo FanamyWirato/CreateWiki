@@ -14,7 +14,7 @@
 
 ### Logistical Components
 &nbsp; &nbsp; [[Item Transfer|]]<br>
-&nbsp; &nbsp; [[Redstone Logic & Utility|]]
+&nbsp; &nbsp; [[Redstone Utility|]]
 
 ### Modules
 &nbsp; &nbsp; [[Create Schematics|Create Schematics]]<br>
