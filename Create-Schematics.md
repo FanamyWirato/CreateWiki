@@ -13,4 +13,3 @@ This Module provides a collection of Blocks and Items to aid you with schematics
 ### Blocks
 * [Schematic Table](https://github.com/simibubi/Create/wiki/Schematic-Table)
 * [Schematicannon](https://github.com/simibubi/Create/wiki/Schematicannon)
-* Schematicannon Creatifier
