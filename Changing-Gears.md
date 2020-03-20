@@ -2,7 +2,7 @@ Just alone having components rotate is not enough.  Sometimes more control over 
 
 ### Cogwheels
 
-Cogwheels are not only useful for relaying rotation but can also serve as a simple way to control the speed. By attaching a large cogwheel diagonally to a regular sized one, as seen below, one can double/half the speed of the other.
+Cogwheels are not only useful for relaying rotation, but also serve as a simple way to control the speed. By attaching a large cogwheel diagonally to a regular sized one, as seen below, one can double/half the speed of the other.
 
  &nbsp; &nbsp; &nbsp; ![](https://cdn.discordapp.com/attachments/622867820170182676/690188497910628382/Annotation_2020-03-19_142022r.png) <br>
 Powering the _large cogwheel_ results in the _smaller_ one turning at **double** the speed<br>
