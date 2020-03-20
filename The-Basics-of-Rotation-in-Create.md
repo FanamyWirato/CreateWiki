@@ -1,7 +1,7 @@
 Some of the most prominent machines and components require **Rotational Force** to operate. Sometimes the provided rotation speed and direction reflects their behaviour, and some components may have a more significant _cost_ than others. Trying to understand how exactly these components work together can become difficult so we recommend reading these 3 articles in order to help with that.
 
 1. [[Generate & Convey|Generate and Convey]]
-2. [[Changing Gear|Changing Gears]]
+2. [[Changing Gears|Changing Gears]]
 3. [[Stress & Capacity|Stress Units, Capacity and Impact]]
 
 If you have already used Create 0.1 in the past and are familiar with rotation and speed, you may be able to catch up with the 0.2 update by just reading the paragraph below
