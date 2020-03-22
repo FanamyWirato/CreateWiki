@@ -25,14 +25,16 @@ This Deployer is set up to only activate when an **Empty Bucket** is held (filte
 * Pushing buttons
 * Pulling a [[Hand Crank]]
 * Clearing a [[Basin]]
----
+<br>
+
 ![](https://i.imgur.com/V3l6UZZ.jpg)
 **Using items on Blocks**: Use Mode with held item. Examples:
 * Igniting TNT (image)
 * Stripping logs
 * Fertilizing Saplings
 * Picking up or Placing Fluids
----
+<br>
+
 ![](https://i.imgur.com/IUcm1DD.png)
 **Using items**: Use Mode with held item, no block in active area. Examples:
 * Automated [[Sandpaper]] polishing (image)
@@ -40,20 +42,24 @@ This Deployer is set up to only activate when an **Empty Bucket** is held (filte
 * Shearing Sheep
 * Throwing Snowballs or Eggs
 * Eating Consumables (Has no purpose)
----
+<br>
+
 ![](https://i.imgur.com/Y4ofR9C.jpg)
 **Placing Blocks**: Use Mode with held block, no block in active area.
 * Simulates placing a block with the held item
----
+<br>
+
 ![](https://i.imgur.com/DytyxmG.jpg)
 **Punching Blocks**: Attack Mode; no held items. Example:
 * Activating Note Blocks (image)
----
+<br>
+
 ![](https://i.imgur.com/S9k0YXl.jpg)
 **Attacking Entities**: Attack Mode; no block in active area.
 * Drops player-specific entity drops
 * Killed entities do not spawn experience orbs
----
+<br>
+
 ![](https://i.imgur.com/gVbi9Gm.jpg)
 **Breaking Blocks with Item**: Attack Mode with held item; block in active area.
 * Simulates breaking the block with the held item.
