@@ -1,4 +1,4 @@
-Create allows you to move and animate structures of any shape or form. This feature is extremely powerful as it proves useful in the field of automation, transportation and aesthetics. 
+Create allows you to move and animate block structures of any shape or form. This feature is extremely powerful as it proves useful in the field of automation, transportation and aesthetics. 
 
 <moving stuff>
 
