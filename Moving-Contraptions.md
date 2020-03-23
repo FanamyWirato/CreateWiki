@@ -23,3 +23,18 @@ In order to get the most out of this mechanic, it is helpful to know about the c
 **Mechanical Pistons** are kinetically powered counterparts to Minecraft's pistons. As such, they can push **a line of blocks** in front of them, and if sticky, pull the closest one back.  
 However, Create's pistons do not work on their own. They require [[Piston Extension Poles]] added at the back, in order to be able to extend. When rotated, the piston will extend exactly as far as poles have been added to the back, rather than just 1 block space.
 
+### Rope Pulley
+
+### Mechanical Bearing
+
+### Clockwork Bearing
+
+### Minecart Assembler
+
+<br>
+
+## Contraption Assembly and Chassis Blocks
+
+### Movement Modes
+
+### Chassis Blocks
