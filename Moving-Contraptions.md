@@ -24,8 +24,10 @@ In order to get the most out of this mechanic, it is helpful to know about the c
 However, Create's pistons do not work on their own. They require [[Piston Extension Poles]] added at the back, in order to be able to extend. When rotated, the piston will extend exactly as far as poles have been added to the back, rather than just 1 block space.
 
 ### Rope Pulley
+![](https://i.imgur.com/9K1UeMu.jpg)
 
 ### Mechanical Bearing
+![](https://i.imgur.com/Xl6JTqE.jpg)
 
 ### Clockwork Bearing
 
