@@ -1,4 +1,4 @@
-Copper is a material generated as an ore in the world around surface level. It is used to make Brass and as an ingredient for various components.
+Copper is a material generated as an ore in the world around surface level. It is used to make [[Brass]] and as an ingredient for various components.
 
 ## [Compacting recipes](Mechanical-Press)
 | Input  | Output |
@@ -20,6 +20,9 @@ Copper is a material generated as an ore in the world around surface level. It i
 ## [Mixing recipes](Mechanical-Mixer)
 | Input  | Output |
 | ------------- | ------------- |
+| 1 [Copper Ingot](Copper) <br> 1 [Zinc Ingot](Zinc) <br> 1 [[Blaze Powder]] | 2 Brass Ingots |
+| 1 [Copper Nugget](Copper) <br> 1 [Zinc Nugget](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 Brass Nuggets <br> 1 [[Blaze Rod]] (Catalyst; 97% chance of returning) |
+| 1 [Crushed Copper](Copper) <br> 1 [Crushed Zinc](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 Crushed Brass <br> 1 [[Blaze Rod]] (Catalyst; 93% chance of returning) |
 | Block of Copper | 9 Copper Ingots |
 | Copper Ingot | 9 Copper Nuggets |
 
