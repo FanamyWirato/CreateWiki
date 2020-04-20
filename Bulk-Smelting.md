@@ -1,0 +1,3 @@
+By placing lava in the air stream of an [[Encased Fan]], smelting recipes can be applied to items in the world or on [[Mechanical Belts|Mechanical Belt]], similar to [[Bulk Washing]] with water in place of lava and [[Bulk Smoking]] with fire in place of lava. If implemented properly, the particles in the air stream will turn orange. A bulk smelter allows for rapid smelting and processing without requiring the use of fuel.
+
+While smoker recipes cannot be applied in a bulk smelter, any other recipe that can be applied by a furnace can be applied here.
