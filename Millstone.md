@@ -19,9 +19,9 @@ The Millstone is a more basic equivalent of the [[Crushing Wheels]], capable of 
 ## Milling recipes unique to Millstone
 | Input  | Output |
 | ------------- | ------------- |
-| [Copper Ore](Copper) | [Crushed Copper](Copper) |
-| [[Gravel]] | [[Flint]] |
-| [Gold Ore](Gold) | [Crushed Gold Ore](Gold) |
-| [Iron Ore](Iron) | [Crushed Iron Ore](Iron) |
-| [[Sand]] | [[Limesand]] |
-| [Zinc Ore](Zinc) | [Crushed Zinc](Zinc) |
+| [Copper Ore](Copper) | 1 [Crushed Copper](Copper) |
+| [[Gravel]] | 1 [[Flint]] |
+| [Gold Ore](Gold) | 1 [Crushed Gold Ore](Gold) |
+| [Iron Ore](Iron) | 1 [Crushed Iron Ore](Iron) |
+| [[Sand]] | 1 [[Limesand]] |
+| [Zinc Ore](Zinc) | 1 [Crushed Zinc](Zinc) |
