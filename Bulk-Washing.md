@@ -2,12 +2,18 @@ By placing water in the air stream of an [[Encased Fan]], unique recipes can be 
 
 ## Washing recipes
 * [[Concrete Powder (any color)|Concrete Powder]]: [[Concrete (same color)|Concrete]]
+* [[Crushed Brass|Brass]]: ten [[Brass Nuggets|Brass]]; five additional Brass Nuggets (50% chance each)
+* [[Crushed Copper|Copper]]: ten [[Copper Nuggets|Copper]]; five additional Copper Nuggets (50% chance each)
+* [[Crushed Gold Ore|Gold]]: ten [[Gold Nuggets|Gold]]; five additional Gold Nuggets (50% chance each)
+* [[Crushed Iron Ore|Iron]]: ten [[Iron Nuggets|Iron]]; five additional Iron Nuggets (50% chance each)
+* [[Crushed Zinc|Zinc]]: ten [[Zinc Nuggets|Zinc]]; five additional Zinc Nuggets (50% chance each)
 * [[Glass (stained)|Glass]]: [[Glass (clear)|Glass]]
 * [[Glass Pane (stained)|Glass Pane]]: [[Glass Pane (clear)|Glass Pane]]
-* [[Gravel]]: one [[Flint]] (25% chance); one [[Iron Nugget]] (12% chance)
+* [[Gravel]]: [[Flint]] (25% chance); [[Iron Nugget]] (12% chance)
 * [[Ice]]: [[Packed Ice]]
 * [[Magma Block]]: [[Obsidian]]
-* [[Red Sand]]: three [[Gold Nuggets|Gold Nugget]] (12% chance each); one [[Dead Bush]] (5% chance)
-* [[Sand]]: one [[Clay Ball]] (25% chance)
-* [[Soul Sand]]: four [[Nether Quartz]] (12% chance each); one [[Gold Nugget]] (2% chance)
-* [[Wool (dyed)|Wool]]: [[White Wool|Wool]]
+* [[Red Sand]]: three [[Gold Nuggets|Gold Nugget]] (12% chance each); [[Dead Bush]] (5% chance)
+* [[Sand]]: [[Clay Ball]] (25% chance)
+* [[Soul Sand]]: four [[Nether Quartz]] (12% chance each); [[Gold Nugget]] (2% chance)
+* [[Wheat Flour]]: [[Dough]]
+* [[Wool (dyed)|Wool]]: [[Wool (white)|Wool]]
