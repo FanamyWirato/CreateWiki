@@ -1,8 +1,8 @@
 The Mechanical Press is one of the earliest and most important machines in Create. It is used to either press or compact ingredients underneath it.
 
-Its primary use is to press Ingots into [[Plates|Create's-Materials]], used extensively in machine recipes, such as [[Casings|Casing]].
+Its primary use is to press [[Ingots into Plates|Create's-Materials]], used extensively in machine recipes, such as [[Casings|Casing]].
 
-Mechanical Presses are powered by an internal [[shaft|Generate-and-Convey#Shaft]], accessed from two opposite sides. Much like shafts, adjacent Presses will power each other, and relay [[rotation|The-Basics-of-Rotation-in-Create]] along their axis. It will always press/compact items at the same speed, regardless of how much power is provided to it.
+Mechanical Presses are powered by an internal [[shaft|Generate-and-Convey#Shaft]], accessed from two opposite sides. Much like shafts, Presses will relay [[rotation|The-Basics-of-Rotation-in-Create]] along their axis. It will always press/compact items at the same speed, regardless of how much power is provided to it.
 
 ## Pressing
 
