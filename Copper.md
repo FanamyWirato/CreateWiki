@@ -22,12 +22,6 @@ Copper is a material generated as an ore in the world around surface level. It i
 | Copper Ingot | 9 Copper Nuggets |
 | Block of Copper | 9 Copper Ingots |
 
-## Mixing recipes
-| Input  | Output |
-| ------------- | ------------- |
-| Copper Ingot | 9 Copper Nuggets |
-| Block of Copper | 9 Copper Ingots |
-
 ## Pressing recipes
 | Input  | Output |
 | ------------- | ------------- |
