@@ -16,12 +16,20 @@ The Millstone is a more basic equivalent of the [[Crushing Wheels]], capable of 
 | [[Terracotta]] | 1 [[Red Sand]] |
 | [[Wheat]] | 1 [[Wheat Flour]] <br> 2 additional Wheat Flour (25% chance each) <br> 1 [[Wheat Seeds]] (25% chance) |
 
-## Milling recipes unique to Millstone
-| Input  | Output |
-| ------------- | ------------- |
-| [Copper Ore](Copper) | 1 [Crushed Copper](Copper) |
-| [[Gravel]] | 1 [[Flint]] |
-| [Gold Ore](Gold) | 1 [Crushed Gold Ore](Gold) |
-| [Iron Ore](Iron) | 1 [Crushed Iron Ore](Iron) |
-| [[Sand]] | 1 [[Limesand]] |
-| [Zinc Ore](Zinc) | 1 [Crushed Zinc](Zinc) |
+## Other milling and crushing recipes
+| Input  | Millstone output | Crushing Wheels output |
+| ------------- | ------------- | ------------- |
+| [Coal Ore](Coal) | | 1 [[Coal]] <br> 2 additional Coal (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+| [Block of Brass](Brass) | | 5 [Crushed Brass](Brass) |
+| [Block of Copper](Copper) | | 5 [Crushed Copper](Copper) |
+| [Block of Zinc](Zinc) | | 5 [Crushed Zinc](Zinc) |
+| [Copper Ore](Copper) | 1 [Crushed Copper](Copper) | 1 Crushed Copper <br> 2 additional Crushed Copper (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+| [Diamond Ore](Diamond) | | 2 [Diamonds](Diamond) <br> 1 additional Diamond (25% chance) <br> 1 [[Cobblestone]] (12% chance) |
+| [Emerald Ore](Emerald) | | 2 [Emeralds](Emerald) <br> 1 additional Emerald (25% chance) <br> 1 [[Cobblestone]] (12% chance) |
+| [Gold Ore](Gold) | 1 [Crushed Gold Ore](Gold) | 1 Crushed Gold Ore <br> 2 additional Crushed Gold Ore (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+| [[Gravel]] | 1 [[Flint]] | 1 [[Sand]] <br> 1 Flint (20% chance) <br> 1 [Clay Ball](Clay) (10% chance) |
+| [Iron Ore](Iron) | 1 [Crushed Iron Ore](Iron) | 1 Crushed Iron Ore <br> 2 additional Crushed Iron Ore (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+| [Lapis Lazuli Ore](Lapis-Lazuli) | | 12 [[Lapis Lazuli]] <br> 8 additional Lapis Lazuli (25% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+| [Redstone Ore](Redstone) | | 8 [[Redstone Dust]] <br> 6 additional Redstone Dust (25% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+| [[Sand]] | 1 [[Limesand]] | 1 Limesand <br> 1 additional Limesand (50% chance) <br> 1 [[Bone Meal]] (5% chance) |
+| [Zinc Ore](Zinc) | 1 [Crushed Zinc](Zinc) | 1 Crushed Zinc <br> 2 additional Crushed Zinc (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
