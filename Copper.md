@@ -30,7 +30,7 @@
 ### Obtaining Copper Sheets:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
-| [Pressing](Mechanical-Press) | 1 Copper Ingot | 1 Copper Sheet |
+| [Pressing](Mechanical-Press) | Copper Ingot | 1 Copper Sheet |
 
 ## Usage
 ### [Mixing recipes](Mechanical-Mixer)
