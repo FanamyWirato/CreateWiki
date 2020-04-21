@@ -10,4 +10,4 @@ This Module gets all the items and tools, that independently provide a use to pl
 * [[Shadow Steel Toolset]]
 
 ### Items
-* [Tree Fertilizer](https://github.com/simibubi/Create/wiki/Tree-Fertilizer)
+* [[Tree Fertilizer]]
