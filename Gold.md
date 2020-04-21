@@ -1,4 +1,4 @@
-**Gold** is a material generated as an ore in the world. Among its many functions, it is used as a crafting ingredient for the [[Wrench]] and the [[Engineer's Goggles]]. Six forms of gold exist: **Blocks of Gold**, **Crushed Gold Ore**, **Gold Ingots**, **Gold Nuggets**, **Gold Ore**, and **Gold Sheets**.
+**Gold** is a material generated as an ore in the world. Among its many functions, it is used as a crafting ingredient for [Wrenches](Wrench) and [[Engineer's Goggles]]. Six forms of gold exist: **Blocks of Gold**, **Crushed Gold Ore**, **Gold Ingots**, **Gold Nuggets**, **Gold Ore**, and **Gold Sheets**.
 
 ## Obtaining
 ### Obtaining Blocks of Gold:
@@ -27,7 +27,7 @@
 | Crafting <br> [Mixing](Mechanical-Mixer) | 1 Gold Ingot | 9 Gold Nuggets |
 | [Washing](Encased-Fan) | 1 [[Red Sand]] | 3 Gold Nuggets (12% chance each) <br> 1 [[Dead Bush]] (5% chance) |
 | [Washing](Encased-Fan) | 1 [[Soul Sand]] | 4 Nether Quartz (12% chance each) <br> 1 [[Gold Nugget]] (2% chance) |
-| Smelting | Any Gold tool or armor | 1 Gold Nugget
+| Smelting | Any gold tool or armor | 1 Gold Nugget
 
 ### Obtaining Gold Sheets:
 | Method | Input | Output |
