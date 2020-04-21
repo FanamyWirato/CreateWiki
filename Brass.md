@@ -14,7 +14,7 @@
 ## [Mixing recipes](Mechanical-Mixer)
 | Input  | Output |
 | ------------- | ------------- |
-| 1 [Copper Ingot](Copper) <br> 1 [Zinc Ingot](Zinc) <br> 1 [[Blaze Powder]] | 2 Brass Ingots |
+| 1 [Copper Ingot](Copper) <br> 1 [Zinc Bar](Zinc) <br> 1 [[Blaze Powder]] | 2 Brass Ingots |
 | 1 [Copper Nugget](Copper) <br> 1 [Zinc Nugget](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 Brass Nuggets <br> 1 [[Blaze Rod]] (Catalyst; 97% chance of returning) |
 | 1 [Crushed Copper](Copper) <br> 1 [Crushed Zinc](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 Crushed Brass <br> 1 [[Blaze Rod]] (Catalyst; 93% chance of returning) |
 | Block of Brass | 9 Brass Ingots |
