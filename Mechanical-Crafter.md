@@ -11,5 +11,3 @@ Each Crafter contains an internal cogwheel, able to receive and relay reversed r
 ![Crafter Slot Cover](https://i.imgur.com/VScHXLP.png)
 
 Some crafting recipes, such as the Bucket, require ingredients to be arranged diagonally, leaving empty slots near them. The Crafter Slot Cover can be inserted into a Mechanical Crafter to mark it as an empty slot, allowing diagonal Crafters to be linked together.
-
-A recipe output cannot exit a Crafter Slot Cover; it must exit a slot that holds an ingredient.
