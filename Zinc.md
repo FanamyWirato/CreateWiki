@@ -27,11 +27,6 @@
 | [Washing](Encased-Fan) | 1 Crushed Zinc | 10 Zinc Nuggets <br> 5 additional Zinc Nuggets (50% chance each) |
 | Crafting <br> [Mixing](Mechanical-Mixer) | 1 Zinc Bar | 9 Zinc Nuggets |
 
-### Obtaining Zinc Sheets:
-| Method | Input | Output |
-| ------------- | ------------- | ------------- |
-| [Pressing](Mechanical-Press) | 1 Zinc Ingot | 1 Zinc Sheet |
-
 ## Usage
 ### [Mixing recipes](Mechanical-Mixer)
 | Input  | Output |
