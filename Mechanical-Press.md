@@ -8,10 +8,8 @@ Mechanical Presses are powered by an internal [[shaft|Generate-and-Convey#Shaft]
 
 By default, the Mechanical Press will try to stamp items underneath it. This can be set up in two ways:
 
-- When placed one space above any block, it will process all stacks of items above the block when given a Redstone signal;
-- When placed above a [[conveyor belt|Generate-and-Convey#Belt]], it will automatically press stacks of incoming items, stalling the belt until each operation is done.
-
-The Press will activate for any items, regardless of having a valid recipe. Any incompatible items are simply left unchanged.
+- When placed one space above any block, it will process all stacks of valid items above the block when given a Redstone signal. Items with no pressing recipe are unaffected;
+- When placed one space above a [[conveyor belt|Generate-and-Convey#Belt]], it will automatically press stacks of incoming items, stalling the belt until each operation is done. Items with no pressing recipe are ignored.
 
 ## Compacting
 
