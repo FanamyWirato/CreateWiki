@@ -31,4 +31,4 @@
 ### Obtaining Iron Sheets:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
-| [Pressing](Mechanical-Press) | 1 Iron Ingot | 1 Iron Sheet |
+| [Pressing](Mechanical-Press) | Iron Ingot | 1 Iron Sheet |
