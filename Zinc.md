@@ -1,4 +1,4 @@
-Zinc is a material generated as an ore in the world. It is used with [[Copper]] to make [[Brass]]. Five forms of zinc exist: **Zinc Ore**, **Crushed Zinc**, **Zinc Bars**, **Zinc Nuggets**, and **Blocks of Zinc**.
+**Zinc** is a material generated as an ore in the world. It is used with [[Copper]] to make [[Brass]]. Five forms of zinc exist: **Zinc Ore**, **Crushed Zinc**, **Zinc Bars**, **Zinc Nuggets**, and **Blocks of Zinc**.
 
 
 
