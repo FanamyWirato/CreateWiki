@@ -1,0 +1,3 @@
+The **Deforester** is an incredibly effective axe made from [Refined Radiance](https://github.com/Creators-of-Create/Create/wiki/Create%27s-Materials), obsidian, and a single cog.
+
+The Deforester is capable of chopping entire trees in a single swing (yes, even those pesky large oak trees) in both Survival and Creative, making it a valuable asset to the terraform-happy amongst us. However, unlike the other two tools made from Refined Radiance, the Deforester benefits from enchantments and has durability like any other tool and as such will require repairs now and again.
