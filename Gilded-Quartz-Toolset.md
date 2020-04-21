@@ -1,3 +1,3 @@
-The **Gilded Quartz Toolset** is a high-tier toolset made chiefly from [Polished Rose Quartz](https://github.com/Creators-of-Create/Create/wiki/Create%27s-Materials) alongside other parts made of gold, iron, and zinc in a [[Mechanical Crafter]].
+The **Gilded Quartz Toolset** is a high-tier toolset made from [Polished Rose Quartz](https://github.com/Creators-of-Create/Create/wiki/Create%27s-Materials) alongside other parts made of gold, iron, and zinc in a [[Mechanical Crafter]].
 
 These tools grant the user an increased reach distance (3 blocks) for both breaking blocks with the tool and placing blocks in the offhand, making them a valuable asset for builders prior to obtaining the [Handheld Blockzapper](https://github.com/Creators-of-Create/Create/wiki/The-Handheld-Blockzapper).
