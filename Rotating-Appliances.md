@@ -1,5 +1,6 @@
 Here you can find out about all the components, that make generating kinetic energy worthwhile.
 
+* [[Millstone]]
 * [[Crushing Wheels]]
 * [[Mechanical Press]]
 * [[Mechanical Crafter]]
