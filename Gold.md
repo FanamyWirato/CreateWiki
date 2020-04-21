@@ -14,7 +14,7 @@ Crushed Gold Ore cannot be found naturally in the world but can be created throu
 | [Crushing](Crushing-Wheels) | 1 Gold Ore | 1 Crushed Gold Ore <br> 2 additional Crushed Gold Ore (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
 | [Milling](Millstone) | 1 Gold Ore | 1 Crushed Gold Ore |
 
-### Obtaining Gold Ingots:
+### Obtaining Gold Ingots
 Gold ingots can be found in loot chests or created through the following methods:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
@@ -23,7 +23,7 @@ Gold ingots can be found in loot chests or created through the following methods
 | Smelting | 1 Gold Ore | 1 Gold Ingot |
 | Crafting <br> [Mixing](Mechanical-Mixer) | 1 Block of Gold | 9 Gold Ingots |
 
-### Obtaining Gold Nuggets:
+### Obtaining Gold Nuggets
 Gold nuggets are a drop from [Zombie Pigmen](Zombie-Pigman) or can be created through the following methods:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
@@ -33,10 +33,10 @@ Gold nuggets are a drop from [Zombie Pigmen](Zombie-Pigman) or can be created th
 | [Washing](Encased-Fan) | 1 [[Soul Sand]] | 4 Nether Quartz (12% chance each) <br> 1 [[Gold Nugget]] (2% chance) |
 | Smelting | Any gold tool or armor | 1 Gold Nugget
 
-### Obtaining Gold Ore:
+### Obtaining Gold Ore
 Gold Ore generates in veins deep underground throughout the world or near surface level in Badlands biomes. It cannot be created through any method.
 
-### Obtaining Gold Sheets:
+### Obtaining Gold Sheets
 Gold Sheets cannot be found naturally in the world but can be created through the following methods:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
