@@ -1,43 +1,41 @@
-**Copper** is a material generated as an ore in the world around surface level. It is used to make [[Brass]] and as an ingredient for various components. Six forms of copper exist: **Copper Ore**, **Crushed Copper**, **Copper Ingots**, **Copper Nuggets**, **Blocks of Copper**, and **Copper Sheets**.
+**Copper** is a material generated as an ore in the world around surface level. It is used to make [[Brass]] and as an ingredient for various components. Six forms of copper exist: **Blocks of Copper**, **Crushed Copper**, **Copper Ingots**, **Copper Nuggets**, **Copper Ore**, and **Copper Sheets**.
 
-## [Compacting recipes](Mechanical-Press)
-| Input  | Output |
-| ------------- | ------------- |
-| 9 Copper Ingots | Block of Copper |
-| 9 Copper Nuggets | Copper Ingot |
+## Obtaining
+### Obtaining Blocks of Copper:
+| Method | Input | Output |
+| ------------- | ------------- | ------------- |
+| Crafting <br> [Compacting](Mechanical-Press) | 9 Iron Ingots | 1 Block of Iron |
 
-## [Crushing recipes](Crushing-Wheels)
-| Input  | Output |
-| ------------- | ------------- |
-| Block of Copper | 5 Crushed Copper |
-| Copper Ore | 1 Crushed Copper <br> 2 additional Crushed Copper (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+### Obtaining Crushed Copper:
+| Method | Input | Output |
+| ------------- | ------------- | ------------- |
+| [Crushing](Crushing-Wheels) | Block of Copper | 5 Crushed Copper |
+| [Crushing](Crushing-Wheels) | Copper Ore | 1 Crushed Copper <br> 2 additional Crushed Copper (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+| [Milling](Millstone) | Copper Ore | 1 Crushed Copper |
 
-## [Milling recipes](Millstone)
-| Input  | Output |
-| ------------- | ------------- |
-| Copper Ore | 1 Crushed Copper |
+### Obtaining Copper Ingots:
+| Method | Input | Output |
+| ------------- | ------------- | ------------- |
+| Crafting <br> [Compacting](Mechanical-Press) | 9 Copper Nuggets | 1 Copper Ingot |
+| Smelting | Crushed Copper | 1 Copper Ingot |
+| Smelting | Copper Ore | 1 Iron Ingot |
+| Crafting <br> [Mixing](Mechanical-Mixer) | 1 Block of Copper | 9 Copper Ingots |
 
-## [Mixing recipes](Mechanical-Mixer)
+### Obtaining Copper Nuggets:
+| Method | Input | Output |
+| ------------- | ------------- | ------------- |
+| [Washing](Encased-Fan) | Crushed Copper | 10 Copper Nuggets <br> 5 additional Copper Nuggets (50% chance each) |
+| Crafting <br> [Mixing](Mechanical-Mixer) | 1 Copper Ingot | 9 Copper Nuggets |
+
+### Obtaining Copper Sheets:
+| Method | Input | Output |
+| ------------- | ------------- | ------------- |
+| [Pressing](Mechanical-Press) | 1 Copper Ingot | 1 Copper Sheet |
+
+## Usage
+### [Mixing recipes](Mechanical-Mixer)
 | Input  | Output |
 | ------------- | ------------- |
 | 1 [Copper Ingot](Copper) <br> 1 [Zinc Bar](Zinc) <br> 1 [[Blaze Powder]] | 2 Brass Ingots |
 | 1 [Copper Nugget](Copper) <br> 1 [Zinc Nugget](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 Brass Nuggets <br> 1 [[Blaze Rod]] (Catalyst; 97% chance of returning) |
 | 1 [Crushed Copper](Copper) <br> 1 [Crushed Zinc](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 Crushed Brass <br> 1 [[Blaze Rod]] (Catalyst; 93% chance of returning) |
-| Block of Copper | 9 Copper Ingots |
-| Copper Ingot | 9 Copper Nuggets |
-
-## [Pressing recipes](Mechanical-Press)
-| Input  | Output |
-| ------------- | ------------- |
-| Copper Ingot | 1 Copper Sheet |
-
-## Smelting recipes
-| Input  | Output |
-| ------------- | ------------- |
-| Copper Ore | 1 Copper Ingot |
-| Crushed Copper | 1 Copper Ingot |
-
-## [Washing recipes](Bulk-Washing)
-| Input  | Output |
-| ------------- | ------------- |
-| Crushed Copper | 10 Copper Nuggets <br> 5 additional Copper Nuggets (50% chance each) |
