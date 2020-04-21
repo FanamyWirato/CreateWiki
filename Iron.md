@@ -9,26 +9,26 @@
 ### Obtaining Crushed Iron Ore:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
-| [Crushing](Crushing-Wheels) | Iron Ore | 1 Crushed Iron Ore <br> 2 additional Crushed Iron Ore (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
-| [Milling](Millstone) | Iron Ore | 1 Crushed Iron Ore |
+| [Crushing](Crushing-Wheels) | 1 Iron Ore | 1 Crushed Iron Ore <br> 2 additional Crushed Iron Ore (30% chance each) <br> 1 [[Cobblestone]] (12% chance) |
+| [Milling](Millstone) | 1 Iron Ore | 1 Crushed Iron Ore |
 
 ### Obtaining Iron Ingots:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
 | Crafting <br> [Compacting](Mechanical-Press) | 9 Iron Nuggets | 1 Iron Ingot |
-| Smelting | Crushed Iron Ore | 1 Iron Ingot |
-| Smelting | Iron Ore | 1 Iron Ingot |
+| Smelting | 1 Crushed Iron Ore | 1 Iron Ingot |
+| Smelting | 1 Iron Ore | 1 Iron Ingot |
 | Crafting <br> [Mixing](Mechanical-Mixer) | 1 Block of Iron | 9 Iron Ingots |
 
 ### Obtaining Iron Nuggets:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
-| [Washing](Encased-Fan) | Crushed Iron Ore | 10 Iron Nuggets <br> 5 additional Iron Nuggets (50% chance each) |
-| [Washing](Encased-Fan) | [[Gravel]] | 1 [[Flint]] (25% chance) <br> 1 Iron Nugget (12% chance) |
+| [Washing](Encased-Fan) | 1 Crushed Iron Ore | 10 Iron Nuggets <br> 5 additional Iron Nuggets (50% chance each) |
+| [Washing](Encased-Fan) | 1 [[Gravel]] | 1 [[Flint]] (25% chance) <br> 1 Iron Nugget (12% chance) |
 | Crafting <br> [Mixing](Mechanical-Mixer) | 1 Iron Ingot | 9 Iron Nuggets |
 | Smelting | Any iron tool or armor | 1 Iron Nugget
 
 ### Obtaining Iron Sheets:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
-| [Pressing](Mechanical-Press) | Iron Ingot | 1 Iron Sheet |
+| [Pressing](Mechanical-Press) | 1 Iron Ingot | 1 Iron Sheet |
