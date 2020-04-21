@@ -1,4 +1,4 @@
-Copper is a material generated as an ore in the world around surface level. It is used to make [[Brass]] and as an ingredient for various components.
+**Copper** is a material generated as an ore in the world around surface level. It is used to make [[Brass]] and as an ingredient for various components. Six forms of copper exist: **Copper Ore**, **Crushed Copper**, **Copper Ingots**, **Copper Nuggets**, **Blocks of Copper**, and **Copper Sheets**.
 
 ## [Compacting recipes](Mechanical-Press)
 | Input  | Output |
