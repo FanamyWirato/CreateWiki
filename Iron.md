@@ -4,7 +4,7 @@
 ### Obtaining Blocks of Iron:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
-| Crafting or [Compacting](Mechanical-Press) | 9 Iron Ingots | 1 Block of Iron |
+| Crafting <br> [Compacting](Mechanical-Press) | 9 Iron Ingots | 1 Block of Iron |
 
 ### Obtaining Crushed Iron Ore:
 | Method | Input | Output |
@@ -15,17 +15,17 @@
 ### Obtaining Iron Ingots:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
-| Crafting or [Compacting](Mechanical-Press) | 9 Iron Nuggets | 1 Iron Ingot |
+| Crafting <br> [Compacting](Mechanical-Press) | 9 Iron Nuggets | 1 Iron Ingot |
 | Smelting | Crushed Iron Ore | 1 Iron Ingot |
 | Smelting | Iron Ore | 1 Iron Ingot |
-| Crafting or [Mixing](Mechanical-Mixer) | 1 Block of Iron | 9 Iron Ingots |
+| Crafting <br> [Mixing](Mechanical-Mixer) | 1 Block of Iron | 9 Iron Ingots |
 
 ### Obtaining Iron Nuggets:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
 | [Washing](Encased-Fan) | Crushed Iron Ore | 10 Iron Nuggets <br> 5 additional Iron Nuggets (50% chance each) |
 | [Washing](Encased-Fan) | [[Gravel]] | 1 [[Flint]] (25% chance) <br> 1 Iron Nugget (12% chance) |
-| Crafting or [Mixing](Mechanical-Mixer) | 1 Iron Ingot | 9 Iron Nuggets |
+| Crafting <br> [Mixing](Mechanical-Mixer) | 1 Iron Ingot | 9 Iron Nuggets |
 | Smelting | Any iron tool or armor | 1 Iron Nugget
 
 ### Obtaining Iron Sheets:
