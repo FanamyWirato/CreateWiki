@@ -1,4 +1,4 @@
-Brass is a material used in Brass Casing and more advanced kinetic blocks, which serves as an entry-point to the logistical components of Create. It does not generate in the world as an ore; rather, it must be created in a [[Mechanical Mixer]] as an alloy of [[Copper]] and [[Zinc]].
+**Brass** is a material used in Brass Casing and more advanced kinetic blocks, which serves as an entry-point to the logistical components of Create. It does not generate in the world as an ore; rather, it must be created in a [[Mechanical Mixer]] as an alloy of [[Copper]] and [[Zinc]]. As such, four forms of brass exist: **Crushed Brass**, **Brass Ingots**, **Brass Nuggets**, and **Brass Sheets**.
 
 ## [Compacting recipes](Mechanical-Press)
 | Input  | Output |
