@@ -11,7 +11,7 @@ The targeted blocks will be replaced or covered by the block you chose.
 
 
 ## Configuration
-![Configuration](https://i.imgur.com/rvClRPQ.png)
+![Configuration](https://i.imgur.com/d2Vb1Z0.png)
 
 Hover over the different Buttons to see what they control.
 * **Replace Mode** controls, whether the tool should act like a Block Exchanger, or a placement tool.  
