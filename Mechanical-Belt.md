@@ -1,4 +1,4 @@
-A Mechanical Belt is a mechanical component added by Create that functions as a tool for conveying rotation and for moving items and entities, as well as for constructing [Encased Belt](Encased Belts). A Mechanical Belt can be placed over any number of [Shafts](Shaft) arranged horizontally, vertically, or diagonally in a single line, provided that no obstructions are present. A [[Brass Casing]] can be placed over any segment of a belt, allowing several additional blocks to be connected, including [Conveyor Tunnels](Conveyor Tunnel).
+A Mechanical Belt is a mechanical component added by Create that functions as a tool for conveying rotation and for moving items and entities, as well as for constructing [Encased Belt](Encased-Belts). A Mechanical Belt can be placed over any number of [Shafts](Shaft) arranged horizontally, vertically, or diagonally in a single line, provided that no obstructions are present. A [[Brass Casing]] can be placed over any segment of a belt, allowing several additional blocks to be connected, including [Conveyor Tunnels](Conveyor-Tunnel).
 
 ## Conveying Rotation
 
