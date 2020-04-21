@@ -24,7 +24,7 @@
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
 | [Washing](Encased-Fan) | Crushed Iron Ore | 10 Iron Nuggets <br> 5 additional Iron Nuggets (50% chance each) |
-| [Washing](Encased-Fan) | Gravel | 1 [[Flint]] (25% chance) <br> 1 Iron Nugget (12% chance) |
+| [Washing](Encased-Fan) | [[Gravel]] | 1 [[Flint]] (25% chance) <br> 1 Iron Nugget (12% chance) |
 | [Mixing](Mechanical-Mixer) | 1 Iron Ingot | 9 Iron Nuggets |
 | Smelting | Any iron tool or armor | 1 Iron Nugget
 
