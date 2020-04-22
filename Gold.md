@@ -2,7 +2,7 @@
 
 ## Obtaining
 ### Obtaining Blocks of Gold
-Blocks of Gold cannot be found naturally in the world but can be created through the following methods:
+Blocks of Gold can be found in [Ocean Monuments](http://minecraft.gamepedia.com/Ocean_Monument) or created through the following methods:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
 | Crafting <br> [Compacting](Mechanical-Press) | 9 Gold Ingots | 1 Block of Gold |
@@ -15,7 +15,7 @@ Crushed Gold Ore cannot be found naturally in the world but can be created throu
 | [Milling](Millstone) | 1 Gold Ore | 1 Crushed Gold Ore |
 
 ### Obtaining Gold Ingots
-Gold ingots can be found in loot chests or created through the following methods:
+Gold ingots can be found in loot chests or as an occasional drop from [Zombie Pigmen](http://minecraft.gamepedia.com/Zombie_Pigman), or can be created through the following methods:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
 | Crafting <br> [Compacting](Mechanical-Press) | 9 Gold Nuggets | 1 Gold Ingot |
@@ -24,7 +24,7 @@ Gold ingots can be found in loot chests or created through the following methods
 | Crafting <br> [Mixing](Mechanical-Mixer) | 1 Block of Gold | 9 Gold Ingots |
 
 ### Obtaining Gold Nuggets
-Gold nuggets are a drop from [Zombie Pigmen](Zombie-Pigman) or can be created through the following methods:
+Gold nuggets are a drop from [Zombie Pigmen](http://minecraft.gamepedia.com/Zombie_Pigman) or can be created through the following methods:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
 | [Washing](Encased-Fan) | 1 Crushed Gold Ore | 10 Gold Nuggets <br> 5 additional Gold Nuggets (50% chance each) |
