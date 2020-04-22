@@ -15,7 +15,7 @@ Crushed iron ore cannot be found naturally in the world but can be created throu
 | [Milling](Millstone) | 1 Iron Ore | 1 Crushed Iron Ore |
 
 ### Obtaining Iron Ingots
-Iron ingots can be found in loot chests or as an occasional drop from [Zombies](Zombie), or can be created through the following methods:
+Iron ingots can be found in loot chests, as a drop from [Iron Golems](http://minecraft.gamepedia.com/Iron_Golem), or as an occasional drop from [Zombies](http://minecraft.gamepedia.com/Zombie), [Husks](http://minecraft.gamepedia.com/Husk), or [Zombie Villagers](http://minecraft.gamepedia.com/Zombie_Villager). They can be created through the following methods:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
 | Crafting <br> [Compacting](Mechanical-Press) | 9 Iron Nuggets | 1 Iron Ingot |
@@ -24,7 +24,7 @@ Iron ingots can be found in loot chests or as an occasional drop from [Zombies](
 | Crafting <br> [Mixing](Mechanical-Mixer) | 1 Block of Iron | 9 Iron Ingots |
 
 ### Obtaining Iron Nuggets
-Iron nuggets cannot be found naturally in the world but can be created through the following methods:
+Iron nuggets can be found in loot chests or created through the following methods:
 | Method | Input | Output |
 | ------------- | ------------- | ------------- |
 | [Washing](Encased-Fan) | 1 Crushed Iron Ore | 10 Iron Nuggets <br> 5 additional Iron Nuggets (50% chance each) |
