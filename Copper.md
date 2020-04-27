@@ -41,9 +41,9 @@ Copper sheets cannot be found naturally in the world but can be created through 
 | [Pressing](Mechanical-Press) | 1 Copper Ingot | 1 Copper Sheet |
 
 ## Usage
-### [Mixing recipes](Mechanical-Mixer)
-| Input  | Output |
-| ------------- | ------------- |
-| 1 Copper Ingot <br> 1 [Zinc Bar](Zinc) <br> 1 [[Blaze Powder]] | 2 [Brass Ingots](Brass) |
-| 1 Copper Nugget <br> 1 [Zinc Nugget](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 [Brass Nuggets](Brass) <br> 1 [[Blaze Rod]] (Catalyst; 97% chance of returning) |
-| 1 Crushed Copper <br> 1 [Crushed Zinc](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 [Crushed Brass](Brass) <br> 1 [[Blaze Rod]] (Catalyst; 93% chance of returning) |
+Copper can be used in the following recipes:
+| Method | Input  | Output |
+| ------------- | ------------- | ------------- |
+| [Mixing](Mechainical_Mixer)| 1 Copper Ingot <br> 1 [Zinc Bar](Zinc) <br> 1 [[Blaze Powder]] | 2 [Brass Ingots](Brass) |
+| [Mixing](Mechainical_Mixer)| 1 Copper Nugget <br> 1 [Zinc Nugget](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 [Brass Nuggets](Brass) <br> 1 [[Blaze Rod]] (Catalyst; 97% chance of returning) |
+| [Mixing](Mechainical_Mixer)| 1 Crushed Copper <br> 1 [Crushed Zinc](Zinc) <br> 1 [[Blaze Rod]] (Catalyst) | 2 [Crushed Brass](Brass) <br> 1 [[Blaze Rod]] (Catalyst; 93% chance of returning) |
