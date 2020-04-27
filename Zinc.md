@@ -35,7 +35,7 @@ Zinc nuggets cannot be found naturally in the world but can be created through t
 Zinc ore generates in underground veins throughout the world. It cannot be created through any method. Since zinc ore is required to create any other form of zinc, this means that zinc is not renewable.
 
 ## Usage
-Zinc can be used in the following recipes.
+Zinc can be used in the following recipes:
 | Method | Input  | Output |
 | ------------- | ------------- | ------------- |
 | [Mixing](Mechanical_Mixer) | 1 [Copper Ingot](Copper) <br> 1 Zinc Bar <br> 1 [[Blaze Powder]] | 2 [Brass Ingots](Brass) |
