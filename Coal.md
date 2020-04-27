@@ -25,7 +25,7 @@ Coal is a drop when mining Coal Ore with a [[Mechanical Drill]] or any pickaxe n
 Coal Ore generates in underground veins throughout the world and can be obtained by mining with any pickaxe enchanted with [Silk Touch](http://minecraft.gamepedia.com/Silk_Touch). It cannot be created through any method.
 
 ## Usage
-Coal, charcoal, and blocks of coal can all be used to power [Furnaces](http://minecraft.gamepedia.com/Furnace), [Smokers](http://minecraft.gamepedia.com/Smoker), [Blast Furnaces](http://minecraft.gamepedia.com/Blast_Furnace), and [[Furnace Engines|Furnace Engine]]. They can also be used in the following recipes.
+Coal, charcoal, and blocks of coal can all be used to power [Furnaces](http://minecraft.gamepedia.com/Furnace), [Smokers](http://minecraft.gamepedia.com/Smoker), [Blast Furnaces](http://minecraft.gamepedia.com/Blast_Furnace), and [[Furnace Engines|Furnace Engine]]. They can also be used in the following recipes:
 
 | Method | Input  | Output |
 | ------------- | ------------- | ------------- |
