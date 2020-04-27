@@ -2,7 +2,7 @@ The **shaft** is a basic mechanical component in Create. A shaft can be used to 
 
 ## Connecting components
 
-When two mechanical components are connected by a shaft, any [rotational force](The-Basics-of-Rotation-in-Create) provided to either component will also be provided to the other component at the same speed. As such, if both components provide [[stress]], this can cause the machine to become overstressed.
+When two mechanical components are connected by a shaft, any [rotational force](The-Basics-of-Rotation-in-Create) provided to either component will also be provided to the other component at the same speed. As such, if both components provide [stress](Stress-Units%2C-Capacity-and-Impact), this can cause the machine to become overstressed.
 
 ## Mechanical belts
 
