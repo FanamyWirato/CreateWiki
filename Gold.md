@@ -30,7 +30,7 @@ Gold nuggets are a drop from [Zombie Pigmen](http://minecraft.gamepedia.com/Zomb
 | [Washing](Encased-Fan) | 1 Crushed Gold Ore | 10 Gold Nuggets <br> 5 additional Gold Nuggets (50% chance each) |
 | Crafting <br> [Mixing](Mechanical-Mixer) | 1 Gold Ingot | 9 Gold Nuggets |
 | [Washing](Encased-Fan) | 1 [[Red Sand]] | 3 Gold Nuggets (12% chance each) <br> 1 [[Dead Bush]] (5% chance) |
-| [Washing](Encased-Fan) | 1 [[Soul Sand]] | 4 Nether Quartz (12% chance each) <br> 1 [[Gold Nugget]] (2% chance) |
+| [Washing](Encased-Fan) | 1 [[Soul Sand]] | 4 [[Nether Quartz]] (12% chance each) <br> 1 Gold Nugget (2% chance) |
 | Smelting | Any gold tool or armor | 1 Gold Nugget
 
 ### Obtaining Gold Ore
