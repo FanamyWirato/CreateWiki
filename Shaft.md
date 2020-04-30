@@ -1,4 +1,4 @@
-The **shaft** is a basic mechanical component in Create. A shaft can be used to connect two mechanical components such that the rotation of one rotates the other, and shafts serve as the only blocks upon which [Mechanical Belts](Mechanical Belt) can be placed.
+The **shaft** is a basic mechanical component in Create. A shaft can be used to connect two mechanical components such that the rotation of one rotates the other, and shafts serve as the only blocks upon which [Mechanical Belts](Mechanical-Belt) can be placed.
 
 ## Connecting components
 
