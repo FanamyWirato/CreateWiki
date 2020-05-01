@@ -4,7 +4,7 @@ Create allows you to move and animate block structures of any shape or form. Thi
 
 In order to get the most out of this mechanic, it is helpful to know about the components and interactions involved in creating such structures.
 
-1. [[Contraption Controllers]]  
+1. [[Contraption Controllers|Moving-Contraptions#Contraption-Controllers]]  
 2. [[Contraption Assembly and Chassis Blocks]]  
 3. [[Portable Storage]]
 4. [[Portable Actors]]
