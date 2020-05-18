@@ -3,6 +3,7 @@ By placing water in the air flow of an [[Encased Fan]], unique recipes can be ap
 ## Washing recipes
 | Input  | Output |
 | ------------- | ------------- |
+| [[Bucket]] | 1 [Water Bucket](Bucket) |
 | [[Concrete Powder]] (any color) | 1 [[Concrete]] (same color) |
 | [Crushed Brass](Brass)| 10 [Brass Nuggets](Brass) <br> 5 additional Brass Nuggets (50% chance each) |
 | [Crushed Copper](Copper) | 10 [Copper Nuggets](Copper) <br> 5 additional Copper Nuggets (50% chance each) |
@@ -13,6 +14,7 @@ By placing water in the air flow of an [[Encased Fan]], unique recipes can be ap
 | [[Glass Pane]] (stained) | 1 Glass Pane (clear) |
 | [[Gravel]] | 1 [[Flint]] (25% chance) <br> 1 [Iron Nugget](Iron) (12% chance) |
 | [[Ice]] | 1 [[Packed Ice]] |
+| [[Limestone]] | 1 [Weathered Limestone](Limestone) |
 | [[Magma Block]] | 1 [[Obsidian]] |
 | [[Red Sand]] | 3 [Gold Nuggets](Gold) (12% chance each) <br> 1 [[Dead Bush]] (5% chance) |
 | [[Sand]] | 1 [Clay Ball](Clay) (25% chance) |
