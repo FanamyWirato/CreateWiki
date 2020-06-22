@@ -74,6 +74,7 @@ F3 + H gives you information on item IDs which you need to specify which items s
 	]
 }
 ```
+*Note: chance is optional and 1.0 by default*
 
 Run `/reload` and you should see this recipe in JEI (if you have installed JEI), or just try it.
 
@@ -92,10 +93,132 @@ To remove the recipe, make a new *.zs* file in the scripts folder of your Minecr
 This line would remove the soulsand splashing recipe. To remove other recipes, you have to change the recipe type and the recipe name.
 
 ## Tags
+In the way of creating/modifying recipes you can write `tag` instead of `item` in the ingredients section, therefore you need to use the tag of an item and not the ID.
 
-To use a tag in crafting recipes, use `"tag": "modname:tag_name"`
+You can view the tags and ID of an item when using JEI and pressing shift (default) while hovering over the item.
 
-For example, `"tag": "forge:ingots/copper"`would accept all copper ingots that are added to the ingots/copper tag.
+### What is a tag
+In addition to the ID items can have a tag too, while the ID (identifier) must be unique, tags can be used on multiple items. You could also call it grouping or relate to hashtags.
 
-Tags can only be used as ingredients.
+So each item has one unique ID, but can has from none to many tags.
 
+![Imgur](https://imgur.com/i6V8oSg.png)
+![Imgur](https://imgur.com/O8eUY5v.png)
+![Imgur](https://imgur.com/TcFxfXe.png)
+![Imgur](https://imgur.com/8T9cdaH.png)
+
+*These examples shows you that every item has a unique ID and the same tag.*
+
+### Using tags
+#### Tags in the ingredients section
+If you want to create a recipe which should accept every crushed_ore, you don't need to write a recipe for every crushed_ore. One is enough and it should look like this:
+```
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+                "tag": "create:crushed_ores"
+        }
+    ], 
+        "results": [
+                {
+                        "item": "my_mod:my_example_pulver",
+                        "count": 1,
+                }
+        ]
+}
+```
+*Note: the result must always include the item and don't forget to change the item of the result*
+
+Another example - taken from the press recipe for brass ingots.
+```
+{
+    "type": "create:pressing",
+    "ingredients": [
+    	{
+    		"tag": "forge:ingots/brass"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "create:brass_sheet",
+			"count": 1
+		}
+	]
+}
+```
+
+#### Tags in the results section
+Tags can be added in the result section too, to achieve further functionality for items.
+If you're interesed in this topic you can read [further](https://minecraft.gamepedia.com/Tag).
+
+## List types added/advanced by Create
+| Machine                             | Type                                            | Shaped Crafting | Multiple Ingredients | Additional Parameter                                                                                                 |
+|-------------------------------------|-------------------------------------------------|-----------------|----------------------|----------------------------------------------------------------------------------------------------------------------|
+| Millstone                           | create:milling                                  | No              | No                   | processingTime\<ticks\>                                                                                                |
+| Crushing Wheel                      | create:crushing                                 | No              | No                   | processingTime\<ticks\>                                                                                                |
+| Mechanical Press                    | create:pressing                                 | No              | No                   |                                                                                                                      |
+| Mechnical Mixer                     | create:mixing                                   | No              | Yes                  | For ingredients: return_chance \<double\>, 1.0 = 100% `{"item": "minecraft:blaze_rod", "return_chance": 0.97 }` |
+| Mechinal Press + Basin (Compacting) | crafting_shaped, crafting_shapeless | Yes             | No                   | The Compacting looks for squared shaped recipes with the same items                                                     |
+| Mechanical Sawing                   | create:cutting                                  | No              | No                   | processing_time\<ticks\>                                                                                                      |
+| Mechanical Cutting                  | minecraft:stonecutting                          | No              | No                   |                                                                                                                      |
+| Encased Fan + Water                 | create:splashing                                | No              | No                   |                                                                                                                      |
+| Encased Fan + Lava                  | minecraft:smelting                              | No              | No                   | cookingtime\<ticks\>, experience\<double\>                                                                               |
+| Encased Fan + Fire/Campfire         | minecraft:smoking                               | No              | No                   | cookingtime\<ticks\>, experience\<double\>                                                                               |
+| Sandpaper Polishing                 | create:sandpaper_polishing                      | No              | No                   |                                                                                                                      |
+| Mechanical Crafter                  | create:mechanical_crafting                      | Yes             | Yes                  | Shaped Crafting is needed                                                          |
+### Compacting Shapes
+As the compacter searches for crafting_shaped and crafting_shapeless recipes some extra needs need to be fullfilled.
+1. the structure must be in a square shape (without spaces in the pattern)
+```
+AA
+AA
+```
+```
+AAA
+AAA
+AAA
+```
+2. Only 1 key(item) is allowed for the pattern.
+
+### Mechincal Crafter
+The crafter takes different Shapes, it could take up to 100 blocks for width and height (untested)
+
+To be safe - this structure should be your maximum.
+```
+ XXX 
+XXXXX
+XXXXX
+XXXXX
+ XXX 
+```
+*The X is just for demonstration, you can define every position with another key.*
+
+Example: the recipe in version 0.2.4 for the crushing wheel
+```
+"pattern": [
+			" PPP ",
+			"PSBSP",
+			"PBCBP",
+			"PSBSP",
+			" PPP "
+        ],
+        "key": {
+			"P": {
+                "item": "create:andesite_alloy"
+            },
+            "S": {
+                "tag": "forge:rods/wooden"
+            },
+			"C": {
+                "item": "create:andesite_casing"
+            },
+			"B": {
+                "tag": "forge:stone"
+            }
+        },
+```
+
+## Useful links
+For some more examples or help on types, just check the data-pack recipes create already includes.
+[Click me](https://github.com/Creators-of-Create/Create/tree/mc1.15/dev/src/main/resources/data/create/recipes)
