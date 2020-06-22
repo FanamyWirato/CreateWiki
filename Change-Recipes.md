@@ -149,7 +149,7 @@ Another example - taken from the press recipe for brass ingots.
 ```
 
 #### Tags in the results section
-Tags can be added in the result section too, to achieve further functionality for items.
+Tags can be added in the result section to achieve further functionality for items.
 If you're interesed in this topic you can read [further](https://minecraft.gamepedia.com/Tag).
 
 ## List types added/advanced by Create
@@ -184,15 +184,7 @@ AAA
 ### Mechincal Crafter
 The crafter takes different Shapes, it could take up to 100 blocks for width and height (untested)
 
-To be safe - this structure should be your maximum.
-```
- XXX 
-XXXXX
-XXXXX
-XXXXX
- XXX 
-```
-*The X is just for demonstration, you can define every position with another key.*
+It was safely tested for up to 9x9 (including JEI), with 10 or more, JEI isn't able to show it anymore.
 
 Example: the recipe in version 0.2.4 for the crushing wheel
 ```
